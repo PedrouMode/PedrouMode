@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedrouMode
+👋 Hi, I’m @PedrouMode
 
 
 <!---
